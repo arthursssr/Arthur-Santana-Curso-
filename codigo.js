@@ -73,5 +73,7 @@ if(imc < 18){
     else{
         alert(`Seu IMC é de ${imc} e está acima do peso ideal`)
     }    
+
+    console.log
     
 
